@@ -1,6 +1,6 @@
 ## YourOS 
 
-YourOS Website
+**YourOS Website**
 
 ---
 
