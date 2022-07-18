@@ -1,4 +1,7 @@
 # About | YourOS
+
+[Home](/) [About](/about.md)
+
 ## Created by:
 Younos Amr - younosamrsalama@gmail.com
 
