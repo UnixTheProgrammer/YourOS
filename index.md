@@ -1,6 +1,6 @@
-## YourOS Official
+## YourOS 
 
-YourOS Official Website
+YourOS Website
 
 ---
 
